@@ -3,9 +3,8 @@
 
 #include <stdio.h>
 
-
-
 int main() {
+
 
    /*
         n = 공의 개수
