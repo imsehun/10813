@@ -4,7 +4,9 @@
 #include <stdio.h>
 
 
+
 int main() {
+
    /*
         n = 공의 개수
         m = 공 바꾸는 횟수
